@@ -52,3 +52,8 @@ npm install gulp gulp-sass --save-dev
 ## Compile SCSS to CSS
 
 gulp sass or gulp watch
+
+
+## Apollo graphql
+
+npm install --save apollo-angular apollo-angular-link-http apollo-link apollo-client apollo-cache-inmemory graphql-tag graphql
